@@ -1,0 +1,15 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+#MyParagraph {
+    color: beige;
+}
+
+.container {
+    background-color: darkslategrey;
+}
